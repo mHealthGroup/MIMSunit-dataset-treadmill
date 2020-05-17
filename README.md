@@ -1,6 +1,6 @@
 # MIMS unit treadmill dataset
 
-This dataset includes data of treadmill walking and running from 10 participants wearing Actigraph devices (Some with GT3X+ and others with GT9X) on non dominant wrist and dominant ankle.
+This dataset includes data of treadmill walking and running from 10 participants wearing Actigraph devices (Some with GT3X+ and others with GT9X) on non dominant wrist and dominant waist.
 
 ## files in the data folder
 
